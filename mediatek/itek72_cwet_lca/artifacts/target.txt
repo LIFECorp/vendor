@@ -181,6 +181,7 @@ out/target/product/itek72_cwet_lca/system/lib/libdvm_sv_aosp.so:out/target/produ
 out/target/product/itek72_cwet_lca/obj/lib/libdvm_sv_aosp.so:out/target/product/itek72_cwet_lca/system/lib/libcutils.so
 out/target/product/itek72_cwet_lca/system/lib/libdvm_sv_aosp.so:out/target/product/itek72_cwet_lca/system/lib/libcutils.so
 out/target/product/itek72_cwet_lca/obj/lib/libdvm_sv_aosp.so:out/target/product/itek72_cwet_lca/system/lib/libcutils.so
+out/target/product/itek72_cwet_lca/obj/lib/libmcu_control.so:out/target/product/itek72_cwet_lca/system/lib/libmcu_control.so
 out/target/product/itek72_cwet_lca/system/lib/libdvm_sv_aosp.so:out/target/product/itek72_cwet_lca/system/lib/libcutils.so
 out/target/product/itek72_cwet_lca/obj/lib/libdvm_sv_aosp.so:out/target/product/itek72_cwet_lca/system/lib/libdl.so
 out/target/product/itek72_cwet_lca/system/lib/libdvm_sv_aosp.so:out/target/product/itek72_cwet_lca/system/lib/libdl.so

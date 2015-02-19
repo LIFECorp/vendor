@@ -2,6 +2,7 @@ out/target/product/itek72_cwet_kk/obj/STATIC_LIBRARIES/libdex_aosp_intermediates
 out/target/product/itek72_cwet_kk/obj/STATIC_LIBRARIES/libdex_aosp_intermediates/libdex_aosp.a:out/target/product/itek72_cwet_kk/obj/STATIC_LIBRARIES/liblog_intermediates/liblog.a
 out/host/linux-x86/obj/STATIC_LIBRARIES/libdex_aosp_intermediates/libdex_aosp.a:out/host/linux-x86/obj/STATIC_LIBRARIES/liblog_intermediates/liblog.a
 out/host/linux-x86/obj/STATIC_LIBRARIES/libdex_aosp_intermediates/libdex_aosp.a:out/host/linux-x86/obj/STATIC_LIBRARIES/liblog_intermediates/liblog.a
+out/target/product/itek72_cwet_kk/obj/lib/libmcu_control.so:out/target/product/itek72_cwet_kk/obj/lib/libmcu_control.so
 out/target/product/itek72_cwet_kk/obj/lib/libdvm_aosp.so:out/target/product/itek72_cwet_kk/obj/lib/libcorkscrew.so
 out/target/product/itek72_cwet_kk/system/lib/libdvm_aosp.so:out/target/product/itek72_cwet_kk/obj/lib/libcorkscrew.so
 out/target/product/itek72_cwet_kk/obj/lib/libdvm_aosp.so:out/target/product/itek72_cwet_kk/obj/lib/libcorkscrew.so
